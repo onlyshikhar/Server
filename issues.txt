@@ -1,0 +1,21 @@
+-git hub
+
+folder name
+commit messages
+
+
+-HTML
+
+heading in graphs
+tool tip
+legends
+navigation for other graphs
+CSS and JS should be separate
+
+
+-CSV TO JSON CODE
+
+use of let and const
+variable names should be meaningful
+proper commments
+code resuability
